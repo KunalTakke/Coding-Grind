@@ -4,7 +4,7 @@
 - Parallelogram
 - Rectange
 - Rhombus
-- Circle
+- Circle (connector used to merge two or more flowcharts incase if the flowcharts are too big)
 
 ![alt text](image.png)
 
