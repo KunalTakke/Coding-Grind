@@ -5,3 +5,6 @@
 
 2) Given a Number N check if it's a part of fibonacci Series or not
 ![alt text](flowchart%20assignment%20problem%202.jpeg)
+
+3) Given a number N check if it is Prime or not
+![alt text](flowchart-assignment-3.jpeg)
