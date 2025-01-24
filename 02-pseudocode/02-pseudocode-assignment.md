@@ -6,6 +6,7 @@
 2) Find sum of digits of a number. Say N = 3467, Output = 3 + 4 + 6 + 7 = 20
 ![alt text](pseudocode-pb-2.jpeg)
 3) Pseducode to print all prime numbers in the range 1 to N.
+![alt text](pseudocode-sol-3.jpeg)
 
 4) Write a program to swap two numbers without using third variable.
 
