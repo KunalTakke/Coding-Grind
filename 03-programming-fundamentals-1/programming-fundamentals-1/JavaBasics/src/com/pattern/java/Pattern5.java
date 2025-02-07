@@ -1,6 +1,5 @@
 package com.pattern.java;
 
-
 import java.util.Scanner;
 
 /*
@@ -19,41 +18,35 @@ import java.util.Scanner;
   
  */
 
-
 public class Pattern5 {
-	
+
 	public static void main(String args[]) {
-		
+
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int total = n*2-1;
+		int total = n * 2 - 1;
 		int rows = 1;
-		
+
 		// rows
-		while(rows<=total) {
-			
+		while (rows <= total) {
+
 			// incr
 			int star = 1;
-			if(rows<=(total/2)+1) {
-				while(star<=rows) {
-					System.out.print("*");
-					star++;
-				}
-				System.out.println();
+
+			while (star <= rows) {
+				System.out.print("*");
+				star++;
 			}
-			else {
-				// decr
-				int star2 = 1;
-				while(star2<=total-rows+1) {
-					System.out.print("*");
-					star2++;
-				}
-				System.out.println();
+			System.out.println();
+
+			if (rows <= (total / 2) + 1) {
+				star++;
+			} else {
+				star--;
 			}
-					
+
 			rows++;
 		}
-		
-		
+
 	}
 }
