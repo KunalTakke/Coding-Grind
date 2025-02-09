@@ -22,7 +22,7 @@ public class Pattern6 {
 		int n = sc.nextInt();
 		
 		int row = 1;
-		int nsp =n-4; // 
+		int nsp =n/2; // 
 		int nst = 1;
 		while(row<=n) {
 			
