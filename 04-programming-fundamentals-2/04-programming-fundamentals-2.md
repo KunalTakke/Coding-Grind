@@ -26,3 +26,7 @@ float f = 10.8f; // type casting
 7. Boolean // true or false
 8. Char -> 2 bytes // 16 bits
 
+###### Non-Primitive Data types 
+1. Arrays
+2. Strings
+3. Any other objects which we create 
