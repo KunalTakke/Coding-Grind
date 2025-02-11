@@ -75,17 +75,17 @@ public class DataType1 {
 
 		ch = (char) (ch + 2);
 		System.out.println(ch);
-		
-		ch = (char)6800;
+
+		ch = (char) 6800;
 		System.out.println(ch);
-		
+
 		// Part 9
-		System.out.println(10+20+"Hello"+10+20); //30Hello1020
-		System.out.println(2+' '+5); //39
-		System.out.println(2+" "+5); //2 5
-		System.out.println("Hello"+"\t"+"World!");
-		System.out.println("Hello"+'\t'+"World!");		
-		
+		System.out.println(10 + 20 + "Hello" + 10 + 20); // 30Hello1020
+		System.out.println(2 + ' ' + 5); // 39
+		System.out.println(2 + " " + 5); // 2 5
+		System.out.println("Hello" + "\t" + "World!");
+		System.out.println("Hello" + '\t' + "World!");
+
 	}
 
 }
