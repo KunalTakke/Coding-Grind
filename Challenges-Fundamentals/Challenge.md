@@ -12,4 +12,7 @@
 ![alt text](image-3.png)
 
 5. Problem 5:
-![alt text](image-4.png)
+![alt text](image-4.png)  (same as problem 4)
+
+6. Problem 6:
+![alt text](image-5.png)
