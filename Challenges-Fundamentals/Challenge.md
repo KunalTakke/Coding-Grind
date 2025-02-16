@@ -10,3 +10,6 @@
 
 4. Problem 4:
 ![alt text](image-3.png)
+
+5. Problem 5:
+![alt text](image-4.png)
