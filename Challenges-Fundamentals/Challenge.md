@@ -4,3 +4,8 @@
 
 2. Problem 2:
 ![alt text](image-1.png)
+
+3. Problem 3:
+![alt text](image-2.png)
+
+4. Problem 4:
