@@ -24,3 +24,4 @@
 ![alt text](image-7.png)
 
 9. Problem 9:
+![alt text](image-8.png)
