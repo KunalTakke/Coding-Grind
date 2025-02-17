@@ -19,3 +19,8 @@
 
 7. Problem 7: 
 ![alt text](image-6.png)
+
+8. Problem 8:
+![alt text](image-7.png)
+
+9. Problem 9:
