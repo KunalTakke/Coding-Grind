@@ -28,3 +28,6 @@
 
 10. Problem 10:
 ![alt text](image-9.png)
+
+11. Problem 11:
+![alt text](image-10.png)
