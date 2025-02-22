@@ -34,3 +34,6 @@
 
 12. Problem 12:
 ![alt text](image-11.png)
+
+13. Problem 13:
+![alt text](image-12.png)
