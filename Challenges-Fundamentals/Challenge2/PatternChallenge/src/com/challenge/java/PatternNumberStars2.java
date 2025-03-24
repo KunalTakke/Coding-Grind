@@ -43,6 +43,7 @@ public class PatternNumberStars2 {
 			
 			System.out.println();
 			
+			
 			nwork++;
 			snwork = n - nwork;
 			row ++;
