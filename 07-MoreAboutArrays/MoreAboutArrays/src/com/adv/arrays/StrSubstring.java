@@ -11,6 +11,10 @@ public class StrSubstring {
 		System.out.println(str.substring(3,3));
 		System.out.println(str.substring(1,5));
 		
+		String s2 = "Bye";
+		System.out.println("######### String Concatenation ##########");
+		System.out.println(str.concat(s2));
+		
 
 	}
 
