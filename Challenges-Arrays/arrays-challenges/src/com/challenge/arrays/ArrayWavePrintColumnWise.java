@@ -37,7 +37,6 @@ public class ArrayWavePrintColumnWise {
 		int dir = 0; // 1 or 0
 		int count = m * n; // total values in the matrix
 		int top = 0;
-		int bottom = arr.length - 1;
 		while (count > 0 && top != arr[0].length) {
 
 			// up-down
