@@ -1,7 +1,7 @@
 package com.challenge.arrays;
 
 import java.util.Scanner;
-
+// O(n^2)
 public class TargetSumPairs {
 
 	public static void main(String[] args) {
